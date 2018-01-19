@@ -7,6 +7,7 @@
 	color: blue;
 	background-color: lightgrey;
 	font-family: Ubuntu;
+	display: flex;
 }
 
 .container div {
