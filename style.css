@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	color: black;
+	background-color: lightgrey;
+	font-family: Ubuntu;
+}
+
+.container div {
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.container h1 {
+	font-size: 40px;
+	padding-top: 20px;
+	text-shadow: 1px 1px 1px;
+}
+
+.container p {
+	padding-bottom: 20px;
+}
